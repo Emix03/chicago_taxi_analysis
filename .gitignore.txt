@@ -1,0 +1,19 @@
+# entorno virtual
+.venv/
+env/
+venv/
+
+# cache de python
+__pycache__/
+*.pyc
+
+# jupyter basura
+.ipynb_checkpoints/
+
+# datasets (muy importante)
+data/*.csv
+data/*.xlsx
+
+# sistema operativo
+.DS_Store
+Thumbs.db
